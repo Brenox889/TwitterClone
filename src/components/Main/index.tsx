@@ -1,5 +1,6 @@
 import React from 'react';
 
+import ProfilePage from '../ProfilePage';
 import { Container, Header, BackIcon, ProfileInfo, BottomMenu, HomeIcon, BellIcon, SearchIcon, EmailIcon } from './styles';
 
 const Main: React.FC = () => {
