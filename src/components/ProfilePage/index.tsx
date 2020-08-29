@@ -48,6 +48,7 @@ const ProfilePage: React.FC = () => {
           </span>
         </Followage>
       </ProfileData>
+      <Feed />
     </Container>
   );
 }
