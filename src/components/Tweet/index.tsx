@@ -1,5 +1,4 @@
 import React from 'react';
-import { Description } from 'styled-icons/material-outlined';
 
 import { 
   Container,
@@ -9,7 +8,7 @@ import {
   Avatar,
   Content,
   Header,
-  Dot
+  Dot,
   Description,
   ImageContent,
   Icons,
