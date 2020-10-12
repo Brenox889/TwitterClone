@@ -105,3 +105,35 @@ export const BellIcon = styled(Notifications)`${iconCSS}`;
 export const EmailIcon = styled(Email)`${iconCSS}`;
 export const FavoriteIcon = styled(FavoriteBorder)`${iconCSS}`;
 export const ProfileIcon = styled(Person)`${iconCSS}`;
+export const ExitIcon = styled(ExitToApp)`${iconCSS}`;
+
+export const Botside = styled.div`
+  margin-top:20px;
+
+  display:flex;
+  align-items: center;
+`;
+export const Avatar = styled.div`
+  width:39px;
+  height:39px;
+
+  flex-shrink:0;
+
+  border-radius:50%;
+  background: var(--gray);
+`;
+export const ProfileData = styled.div`
+  display:none;
+
+  @media(min-width:1280px){
+    display: flex;
+    flex-direction:column;
+
+    margin-left:10px;
+    font-size:14px;
+
+    >span{
+      color:var(--gray);
+    }
+  }
+`;
