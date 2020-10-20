@@ -105,7 +105,6 @@ export const BellIcon = styled(Notifications)`${iconCSS}`;
 export const EmailIcon = styled(Email)`${iconCSS}`;
 export const FavoriteIcon = styled(FavoriteBorder)`${iconCSS}`;
 export const ProfileIcon = styled(Person)`${iconCSS}`;
-export const ExitIcon = styled(ExitToApp)`${iconCSS}`;
 
 export const Botside = styled.div`
   margin-top:20px;
