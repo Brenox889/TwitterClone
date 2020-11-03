@@ -32,4 +32,4 @@ This clone objective was help me a evolve in the React studies, working with sty
   
   ---
   
-  Made by [Breno Mendes](https://www.linkedin.com/in/breno-mendes-14206318a/) :bat:
+  Made by [Breno Mendes](https://www.linkedin.com/in/breno-mendes) :bat:
